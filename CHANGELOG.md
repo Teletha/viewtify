@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/Teletha/viewtify/compare/v2.0.0...v2.1.0) (2021-09-08)
+
+
+### Features
+
+* Enable automatic GC. ([998cce3](https://www.github.com/Teletha/viewtify/commit/998cce367ab34d532706501e8887959c05c7f034))
+* update javafx. ([805350f](https://www.github.com/Teletha/viewtify/commit/805350f6fe61662d3c08500c99adca95498b355b))
+
 ## 2.0.0 (2021-03-29)
 
 
